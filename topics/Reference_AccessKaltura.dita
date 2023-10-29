@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Untitled">
+    <title>Sign In</title>
+    <shortdesc>Ways to access Kaltura</shortdesc>
+    <refbody>
+        <section>
+            <p>
+                Access Kaltura via:
+            </p>
+            <ul id="ul_ndq_fm5_gzb">
+                <li><xref href="http://canvas.umn.edu/" format="html" scope="external"
+                    >Canvas</xref></li>
+                <li>
+                    <p><xref href="https://mediaspace.umn.edu/" format="html" scope="external"
+                            >Kaltura MediaSpace</xref></p>
+                </li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

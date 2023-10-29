@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Untitled">
+    <title>The Do's and Do Not's of Using Kaltura</title>
+    <shortdesc>Information detailing when it is and is not appropriate to use Kaltura.</shortdesc>
+    <refbody>
+        <section>
+            <ul id="ul_j4s_5k5_gzb">
+                <li>DO access Kaltura through <xref href="https://it.umn.edu/node/69116"
+                        format="html" scope="external">Canvas</xref> and <xref
+                        href="https://mediaspace.umn.edu/" format="html" scope="external">Kaltura
+                        MediaSpace.</xref></li>
+                <li>
+                    <p>DO use Kaltura for files that will be actively used on an ongoing basis.</p>
+                </li>
+                <li>
+                    <p>DO NOT use Kaltura for videos not related to teaching, learning, research, or
+                        outreach. For those videos, use <xref href="https://it.umn.edu/node/61301"
+                            format="html" scope="external">Youtube.</xref></p>
+                </li>
+                <li>
+                    <p>DO NOT use Kaltura for storing <xref
+                            href="https://policy.umn.edu/operations/phi" format="html"
+                            scope="external">Protected Health Information (PHI)</xref>. Use <xref
+                            href="https://it.umn.edu/technology/box-secure-storage" format="html"
+                            scope="external">Box Secure Storage</xref> instead.</p>
+                </li>
+                <li>
+                    <p>DO NOT use Kaltura as a platform for archiving media files.</p>
+                </li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="get_help">
+    <title>Get Help</title>
+    <shortdesc>Where users can go to troubleshoot and get help</shortdesc>
+    <refbody>
+        <section>
+            <p> Need help? Go to <xref href="http://canvas@umn.edu" format="html" scope="external"
+                    >Ask a Canvas Question</xref>. </p>
+        </section>
+    </refbody>
+</reference>
