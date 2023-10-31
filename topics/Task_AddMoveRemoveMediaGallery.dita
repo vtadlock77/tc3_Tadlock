@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Task_AddMoveRemoveMediaGallery">
+    <title>Canvas: Add, Move, or Remove the Media Gallery</title>
+    <shortdesc>This page informs users how to add, move, or remove the media gallery in
+        canvas.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Audience: Canvas course teachers, designers, and teaching assistants (TAs)</p>
+            <p>As part of <xref
+                    href="https://it.umn.edu/services-technologies/self-help-guides/canvas-integrate-media-using-kaltura"
+                    format="html" scope="external">Kaltura in Canvas</xref>, the Media Gallery is a
+                tool to publish, view, and search media (video and audio recordings) in Kaltura.
+                Only people enrolled in a particular Canvas course have access to that course's
+                Media Gallery. </p>
+            <p>Course teachers,designers, and TAs: use the steps below to add, move, or remove the
+                Media Gallery in your Canvas course. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Log in to <xref href="http://canvas.umn.edu/" format="html" scope="external"
+                        >Canvas</xref> and go to your course.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Settings</b> from the course navigation menu.</cmd>
+            </step>
+            <step>
+                <cmd>Select the <b>Navigation</b> tab.</cmd>
+            </step>
+            <step>
+                <cmd>Locate <b>Media Gallery </b>on the page, then:</cmd>
+                    <substeps>
+                        <substep>
+                        <cmd>To add or move the Media Gallery: Select the <b>Media Gallery bar
+                            </b>and drag it to where you would like it to appear in the course
+                            navigation menu, under the section labeled <b>Drag and drop items to
+                                reorder them in the course navigation.</b></cmd>
+                    </substep>
+                        <substep>
+                        <cmd>To remove the Media Gallery: Select the <b>Media Gallery bar</b> and
+                            drag it down to be under the section labeled <b>Drag items here to hide
+                                them from students.</b></cmd>
+                    </substep>
+                    </substeps>
+            </step>
+            <step>
+                <cmd>Select <b>Save</b> at the bottom of the page.</cmd>
+                <info>Your settings will take effect for everyone who has access to the
+                    course.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

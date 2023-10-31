@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Reference_CreateKalturaVideoAssignment">
+    <title>Canvas: Create a Kaltura Video Assignment</title>
+    <shortdesc>This page details some of the capabilities of Kaltura's video assignment
+        feature.</shortdesc>
+    <refbody>
+        <example>
+            <p>Kaltura is a media management system that can be used to upload video files as well
+                as to create webcam recordings. Videos in Kaltura can be viewed on phones, tablets,
+                and computers. Access Kaltura through your Canvas course site.</p>
+            <p>While Canvas Assignments offer an online submission type called Media Recordings,
+                    Kaltura's<b> My Media</b> offers greater flexibility with regard to ownership
+                and use:</p>
+            <ul id="ul_ort_xv3_hzb">
+                <li>There is no limit on Kaltura's file space whereas file space for each Canvas
+                    course is limited to 4.2GB.</li>
+                <li>If you use the Canvas Media Recordings option, any media (video/audio) will be
+                    uploaded directly to your Canvas course site. Because video files are so large,
+                    you could run out of space.</li>
+                <li>By using Kaltura, students can either record new media or upload existing media
+                    from their <b>My Media</b> space.</li>
+                <li>Media stored on Kaltura's file server can stream at various internet
+                    speeds.</li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

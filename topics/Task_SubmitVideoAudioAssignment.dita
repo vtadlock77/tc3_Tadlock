@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Canvas for Students: Submit a Video/Audio Assignment Using Kaltura</title>
+    <shortdesc>This page teaches users how to upload audio/visual files and submit them as
+        assignments in canvas.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Kaltura is a media management system that can be used to upload media files as well
+                as to create webcam recordings. Videos in Kaltura can be viewed from phones,
+                tablets, and computers. Kaltura is accessed through your Canvas course site either
+                through the <b>Embed Kaltura Media</b> button anywhere you see a <b>Rich Content
+                    Editor</b> or through <b>My Media</b> in your profile submenu.</p>
+            <p>You can upload an existing video (or audio) recording or you can <xref
+                    href="https://it.umn.edu/services-technologies/how-tos/canvas-use-your-computers-webcam-record"
+                    format="html" scope="external">Use Your Computer's Webcam to Record a New Video
+                    with Kaltura</xref>.</p>
+            <p>Anywhere you encounter the Rich Content Editor (RCE), you can embed Kaltura
+                media.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click the link to the assignment that requires embedding a Kaltura video.</cmd>
+            </step>
+            <step>
+                <cmd>Read the instructions and then click the <b>Start Assignment</b> button. <i>The
+                            </i><b><i>Text Entry</i></b><i> window appears with a Rich Content
+                        Editor.</i></cmd>
+            </step>
+            <step>
+                <cmd>Select the <b>Embed Kaltura Media</b>button to open your <b>My Media</b> library.
+                    <image
+                        href="https://tdx.umn.edu/TDPortal/Images/Viewer?fileName=2232518b-2515-4d7b-a983-c15802d3fa90.png"
+                        scope="external" id="image_jtp_yt3_hzb"/>
+                </cmd>
+            </step>
+            <step>
+                <cmd>Do one of the following:</cmd>
+                    <substeps>
+                        <substep>
+                            <cmd>If you have already uploaded your media to Kaltura,
+                                click <b>Select</b> next to the desired recording.</cmd>
+                            <info>The Embed Kaltura Media window closes and a medium-sized 
+                                video appears in the Rich Content Editor text box.</info>
+                        </substep>
+                        <substep>
+                            <cmd>If you need to record a video for the assignment, select <b>Record
+                            Webcam in Browser</b> and record.</cmd>
+                            <info>Your video appears in the RCE of the activity.</info>
+                        </substep>
+                    </substeps>
+            </step>
+            <step>
+                <cmd>Click <b>Play</b> to test the media.</cmd>
+            </step>
+            <step>
+                <cmd>Add any comments you would like your instructor to see in the <b>Comments</b>
+                    text box.</cmd>
+            </step>
+            <step>
+                <cmd>Click the <b>Submit Assignment</b> button when you are satisfied.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

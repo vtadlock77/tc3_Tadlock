@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>Get Help</title>
+    <shortdesc>This page includes information about where users should go with questions about
+        Kaltura.</shortdesc>
+    <conbody>
+        <p> Need help? Go to <xref href="http://canvas@umn.edu" format="html" scope="external">Ask a
+                Canvas Question</xref>. </p>
+    </conbody>
+</concept>

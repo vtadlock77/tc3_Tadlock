@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Reference_Highlights">
+    <title>Highlights</title>
+    <shortdesc>This section lists the highlights of Kaltura.</shortdesc>
+    <refbody>
+        <section>
+            <ul id="ul_vlx_4n3_hzb">
+                <li>Users can upload, record, and manage video and audio files.</li>
+                <li>Use the Kaltura Capture desktop recorder to record your screen and/or
+                    desktop.</li>
+                <li>Videos published in Canvas courses are only viewable by other people enrolled in
+                    those courses. </li>
+                <li>Uploaded video/audio files receive auto-generated draft captions through
+                    automatic speech recognition.</li>
+                <li>Users can search captions within and across videos as a way to review content
+                    and learn more. </li>
+                <li>Viewer analytics let you know who is watching videos and for how long.</li>
+                <li>Unlimited user storage and bandwidth.</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

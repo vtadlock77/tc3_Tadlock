@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Task_SetUpVideoAssignment">
+    <title>Setting Up a Video Assignment Using Kaltura</title>
+    <shortdesc>This page teaches instructors how to create a video assignment in canvas.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The following steps apply to assigning to individual students, not group work.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to the <b>Course Navigation Menu</b> > <b>Assignments</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click the <b>Add Assignment</b> button.</cmd>
+                    <info>
+                    <image
+                        href="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png"
+                        height="55" width="264" scope="external" id="image_ycz_lw3_hzb">
+                        <alt>To right of Add Assignment Group button, Add Assignment button
+                            highlighted</alt>
+                   </image>
+                    </info>
+            </step>
+            <step>
+                <cmd>Type the name of the assignment in the <b>Assignment Name</b> text box.</cmd>
+            </step>
+            <step>
+                <cmd>Type the assignment instructions in the text box.</cmd>
+            </step>
+            <step>
+                <cmd>Scroll down to the <b>Points</b> text box and type the highest grade students
+                    can receive.</cmd>
+            </step>
+            <step>
+                <cmd>Select the <b>Assignment Group</b> from the drop-down list, if necessary.</cmd>
+            </step>
+            <step>
+                <cmd>Go to the <b>Submission Type</b> drop-down list and select <b>Online.</b>
+                    <i>The box expands to reveal the options.</i></cmd>
+            </step>
+            <step>
+                <cmd>Choose Text Entry in the Online Entry Options.
+                </cmd>
+                <info><image href="Task_SetUpVideoAssignment.png" id="image_py4_jx3_hzb"/></info>
+            </step>
+            <step>
+                <cmd>Scroll down to the <b>Assign to</b> options. Using the date pickers:</cmd>
+                <substeps id="substeps_bzk_mx3_hzb">
+                    <substep>
+                        <cmd>Select the <b>Due </b>date.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the <b>Available from</b> and <b>Until </b>dates.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click <b>Save &amp; Publish</b>. <i>The assignment displays.</i></cmd>
+                <info>Click <b>Save</b> if you are not ready to make the assignment visible to
+                    students.</info>
+                <stepresult>Your students will now be able to upload their Kaltura video/audio work
+                    in the assignment area's text box using the Embed Kaltura Media tool. See <xref
+                        href="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio"
+                        format="html" scope="external">Canvas for Students: Submit a Video/Audio
+                        Assignment Using Kaltura</xref>.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

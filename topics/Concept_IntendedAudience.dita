@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>Intended Audience</title>
+    <shortdesc>This page contains the intended audience for Kaltura.</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_em1_ql3_hzb">
+                <li>Students</li>
+                <li>
+                    <p>Instructors</p>
+                </li>
+                <li>
+                    <p>Staff &amp; Departments</p>
+                </li>
+            </ul>
+        </p>
+    </conbody>
+</concept>
