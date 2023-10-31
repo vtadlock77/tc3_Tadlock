@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Using Kaltura in Canvas and MediaSpace</title>
+    <topicref href="topics/Concept_KalturaOverview.dita">
+        <topicref href="topics/Concept_IntendedAudience.dita"/>
+        <topicref href="topics/Concept_Cost.dita"/>
+        <topicref href="topics/Concept_GetHelp.dita"/>
+    </topicref>
+    <topicref href="topics/Reference_AccessKaltura.dita">
+        <topicref href="topics/Reference_Highlights.dita"/>
+        <topicref href="topics/Reference_KalturaUses.dita"/>
+        <topicref href="topics/Reference_Resources.dita"/>
+    </topicref>
+    <topicref href="topics/Concept_ClosedCaptioningProcessOverview.dita"/>
+    <topicref href="topics/Reference_CreateKalturaVideoAssignment%20.dita">
+        <topicref href="topics/Task_SetUpVideoAssignment.dita"/>
+    </topicref>
+    <topicref href="topics/Task_AddMoveRemoveMediaGallery.dita"/>
+    <topicref href="topics/Task_SubmitVideoAudioAssignment.dita"/>
+</map>
