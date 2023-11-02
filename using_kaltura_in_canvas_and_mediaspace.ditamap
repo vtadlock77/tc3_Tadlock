@@ -12,9 +12,7 @@
     </topicref>
     <topicref href="topics/Reference_Highlights.dita">
         <topicref href="topics/Reference_KalturaUses.dita"/>
-        <topicref href="topics/Reference_CreateKalturaVideoAssignment%20.dita">
-            <topicref href="topics/Task_SetUpVideoAssignment.dita"/>
-        </topicref>
+        <topicref href="topics/Reference_CreateKalturaVideoAssignment%20.dita"/>
     </topicref>
     <topicref href="topics/Concept_ClosedCaptioningProcessOverview.dita"/>
     <topicref href="topics/Task_SetUpVideoAssignment.dita"/>
