@@ -15,5 +15,7 @@
                path="topics/Concept_ClosedCaptioningProcessOverview.html"/>
    <appContext helpID="Task_AddMoveRemoveMediaGallery"
                path="topics/Task_AddMoveRemoveMediaGallery.html"/>
+   <appContext helpID="Task_SetUpVideoAssignment"
+               path="topics/Task_SetUpVideoAssignment.html"/>
    <appContext helpID="Untitled" path="topics/Task_SubmitVideoAudioAssignment.html"/>
 </map>

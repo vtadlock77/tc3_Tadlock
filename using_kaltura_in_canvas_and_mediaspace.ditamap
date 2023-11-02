@@ -16,5 +16,6 @@
     </topicref>
     <topicref href="topics/Concept_ClosedCaptioningProcessOverview.dita"/>
     <topicref href="topics/Task_AddMoveRemoveMediaGallery.dita"/>
+    <topicref href="topics/Task_SetUpVideoAssignment.dita"/>
     <topicref href="topics/Task_SubmitVideoAudioAssignment.dita"/>
 </map>

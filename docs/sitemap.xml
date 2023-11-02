@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>topics/Concept_KalturaOverview.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Concept_IntendedAudience.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Concept_Cost.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Concept_GetHelp.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Reference_AccessKaltura.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Reference_Resources.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Reference_Highlights.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Reference_KalturaUses.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Reference_CreateKalturaVideoAssignment%20.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Concept_ClosedCaptioningProcessOverview.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Task_AddMoveRemoveMediaGallery.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/Task_SetUpVideoAssignment.html</loc>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
    <url>
       <loc>topics/Task_SubmitVideoAudioAssignment.html</loc>
-      <lastmod>2023-11-02T08:37:16Z</lastmod>
+      <lastmod>2023-11-02T08:57:21Z</lastmod>
    </url>
 </urlset>
