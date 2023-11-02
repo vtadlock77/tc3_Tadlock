@@ -79,82 +79,94 @@
                                         Kaltura.</div>
                                 </div>
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_6" type="reference">
-                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Reference_Highlights">
-                                        <div appid="Reference_Highlights" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"/>What
-                                            are the Highlights of
-                                            Kaltura?<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
-                                        <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This section lists the
-                                            highlights of Kaltura.</div>
-                                    </div>
-                                </div>
-                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_7" type="reference">
-                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Untitled">
-                                        <div appid="Untitled" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_7" css:text-align-last="justify" href="#unique_7"><css:before css:display="inline" css:link="#unique_7"/>The
-                                            Do's and Do Not's of Using
-                                            Kaltura<css:after css:display="inline" css:link="#unique_7"><css:leader pattern="."/><css:target-counter url-fragment="unique_7"/></css:after></div>
-                                        <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">Information detailing when it is
-                                            and is not appropriate to use Kaltura.</div>
-                                    </div>
-                                </div>
-                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_8" type="reference">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Reference_Resources">
                                         <div appid="Reference_Resources" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_8" css:text-align-last="justify" href="#unique_8"><css:before css:display="inline" css:link="#unique_8"/>Where
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"/>Where
                                             to Go for Additional
-                                            Reading?<css:after css:display="inline" css:link="#unique_8"><css:leader pattern="."/><css:target-counter url-fragment="unique_8"/></css:after></div>
+                                            Reading?<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This pages contains additional
                                             resources for using Kaltura.</div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_12" is-chapter="true" type="concept">
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_11" is-chapter="true" type="reference">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Reference_Highlights">
+                                    <div appid="Reference_Highlights" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_11" css:text-align-last="justify" href="#unique_11"><css:before css:display="inline" css:link="#unique_11"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="3"/><css:text/><css:text>. </css:text></css:before>What
+                                        are the Highlights of
+                                        Kaltura?<css:after css:display="inline" css:link="#unique_11"><css:leader pattern="."/><css:target-counter url-fragment="unique_11"/></css:after></div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This section lists the highlights of
+                                        Kaltura.</div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_12" type="reference">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Untitled">
+                                        <div appid="Untitled" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_12" css:text-align-last="justify" href="#unique_12"><css:before css:display="inline" css:link="#unique_12"/>The
+                                            Do's and Do Not's of Using
+                                            Kaltura<css:after css:display="inline" css:link="#unique_12"><css:leader pattern="."/><css:target-counter url-fragment="unique_12"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">Information detailing when it is
+                                            and is not appropriate to use Kaltura.</div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_13" type="reference">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Reference_CreateKalturaVideoAssignment">
+                                        <div appid="Reference_CreateKalturaVideoAssignment" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_13" css:text-align-last="justify" href="#unique_13"><css:before css:display="inline" css:link="#unique_13"/>What
+                                            are the Benefits of
+                                            Kaltura?<css:after css:display="inline" css:link="#unique_13"><css:leader pattern="."/><css:target-counter url-fragment="unique_13"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This page details some of the
+                                            capabilities of Kaltura's video assignment
+                                            feature.</div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_8" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Task_SetUpVideoAssignment">
+                                            <div appid="Task_SetUpVideoAssignment" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_8" css:text-align-last="justify" href="#unique_8"><css:before css:display="inline" css:link="#unique_8"/>Canvas:
+                                                Setting Up a Video Assignment Using
+                                                Kaltura<css:after css:display="inline" css:link="#unique_8"><css:leader pattern="."/><css:target-counter url-fragment="unique_8"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This page
+                                                teaches instructors how to create a video assignment
+                                                in canvas.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_10" is-chapter="true" type="concept">
                                 <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Concept_ClosedCaptioningProcessOverview">
                                     <div appid="Concept_ClosedCaptioningProcessOverview" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_12" css:text-align-last="justify" href="#unique_12"><css:before css:display="inline" css:link="#unique_12"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="3"/><css:text/><css:text>. </css:text></css:before>Kalura:
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="4"/><css:text/><css:text>. </css:text></css:before>Kaltura:
                                         Closed Captioning Process
-                                        Overview<css:after css:display="inline" css:link="#unique_12"><css:leader pattern="."/><css:target-counter url-fragment="unique_12"/></css:after></div>
+                                        Overview<css:after css:display="inline" css:link="#unique_10"><css:leader pattern="."/><css:target-counter url-fragment="unique_10"/></css:after></div>
                                     <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"> Kaltura employs an automated
                                         captioning process described here.</div>
                                 </div>
                             </div>
-                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_13" is-chapter="true" type="reference">
-                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Reference_CreateKalturaVideoAssignment">
-                                    <div appid="Reference_CreateKalturaVideoAssignment" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_13" css:text-align-last="justify" href="#unique_13"><css:before css:display="inline" css:link="#unique_13"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="4"/><css:text/><css:text>. </css:text></css:before>What
-                                        are the Benefits of
-                                        Kaltura?<css:after css:display="inline" css:link="#unique_13"><css:leader pattern="."/><css:target-counter url-fragment="unique_13"/></css:after></div>
-                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This page details some of the
-                                        capabilities of Kaltura's video assignment feature.</div>
-                                </div>
-                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_10" type="task">
-                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Task_SetUpVideoAssignment">
-                                        <div appid="Task_SetUpVideoAssignment" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"/>Setting
-                                            Up a Video Assignment Using
-                                            Kaltura<css:after css:display="inline" css:link="#unique_10"><css:leader pattern="."/><css:target-counter url-fragment="unique_10"/></css:after></div>
-                                        <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This page teaches instructors
-                                            how to create a video assignment in canvas.</div>
-                                    </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_8" is-chapter="true" type="task">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Task_SetUpVideoAssignment">
+                                    <div appid="Task_SetUpVideoAssignment" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_8_ssol1" css:text-align-last="justify" href="#unique_8_ssol1"><css:before css:display="inline" css:link="#unique_8_ssol1"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="5"/><css:text/><css:text>. </css:text></css:before>Canvas:
+                                        Setting Up a Video Assignment Using
+                                        Kaltura<css:after css:display="inline" css:link="#unique_8_ssol1"><css:leader pattern="."/><css:target-counter url-fragment="unique_8_ssol1"/></css:after></div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This page teaches instructors how to
+                                        create a video assignment in canvas.</div>
                                 </div>
                             </div>
-                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_9" is-chapter="true" type="task">
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_7" is-chapter="true" type="task">
                                 <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Task_AddMoveRemoveMediaGallery">
                                     <div appid="Task_AddMoveRemoveMediaGallery" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_9" css:text-align-last="justify" href="#unique_9"><css:before css:display="inline" css:link="#unique_9"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="5"/><css:text/><css:text>. </css:text></css:before>Canvas:
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_7" css:text-align-last="justify" href="#unique_7"><css:before css:display="inline" css:link="#unique_7"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="6"/><css:text/><css:text>. </css:text></css:before>Canvas:
                                         Add, Move, or Remove the Media
-                                        Gallery<css:after css:display="inline" css:link="#unique_9"><css:leader pattern="."/><css:target-counter url-fragment="unique_9"/></css:after></div>
+                                        Gallery<css:after css:display="inline" css:link="#unique_7"><css:leader pattern="."/><css:target-counter url-fragment="unique_7"/></css:after></div>
                                     <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This page informs users how to add,
                                         move, or remove the media gallery in canvas.</div>
                                 </div>
                             </div>
-                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_11" is-chapter="true" type="task">
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_9" is-chapter="true" type="task">
                                 <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Untitled">
                                     <div appid="Untitled" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_11" css:text-align-last="justify" href="#unique_11"><css:before css:display="inline" css:link="#unique_11"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="6"/><css:text/><css:text>. </css:text></css:before>Canvas
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_9" css:text-align-last="justify" href="#unique_9"><css:before css:display="inline" css:link="#unique_9"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="7"/><css:text/><css:text>. </css:text></css:before>Canvas
                                         for Students: Submit a Video/Audio Assignment Using
-                                        Kaltura<css:after css:display="inline" css:link="#unique_11"><css:leader pattern="."/><css:target-counter url-fragment="unique_11"/></css:after></div>
+                                        Kaltura<css:after css:display="inline" css:link="#unique_9"><css:leader pattern="."/><css:target-counter url-fragment="unique_9"/></css:after></div>
                                     <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">This page teaches users how to
                                         upload audio/visual files and submit them as assignments in
                                         canvas.</div>
@@ -237,45 +249,77 @@
                                     </ul>
                                 </section>
                             </div>
-                            <article aria-labelledby="ariaid-title6" class="- topic/topic reference/reference topic reference nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_6" nd:nd-id="Reference_Highlights" oid="Reference_Highlights" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title6"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">What are the Highlights of
-                                        Kaltura?</span></h2>
+                            <article aria-labelledby="ariaid-title6" class="- topic/topic reference/reference topic reference nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_6" nd:nd-id="Reference_Resources" oid="Reference_Resources" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title6"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Where to Go for Additional
+                                        Reading?</span></h2>
                                 <div class="- topic/body reference/refbody body refbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This section lists the highlights of
-                                        Kaltura.</p>
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This pages contains additional
+                                        resources for using Kaltura.</p>
                                     <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_6_Connect_42_ul_vlx_4n3_hzb" nd:nd-id="ul_vlx_4n3_hzb">
-                                            <li class="- topic/li li" css:display="list-item">Users
-                                                can upload, record, and manage video and audio
-                                                files.</li>
-                                            <li class="- topic/li li" css:display="list-item">Use
-                                                the Kaltura Capture desktop recorder to record your
-                                                screen and/or desktop.</li>
-                                            <li class="- topic/li li" css:display="list-item">Videos
-                                                published in Canvas courses are only viewable by
-                                                other people enrolled in those courses. </li>
-                                            <li class="- topic/li li" css:display="list-item">Uploaded video/audio files receive auto-generated
-                                                draft captions through automatic speech
-                                                recognition.</li>
-                                            <li class="- topic/li li" css:display="list-item">Users
-                                                can search captions within and across videos as a
-                                                way to review content and learn more. </li>
-                                            <li class="- topic/li li" css:display="list-item">Viewer
-                                                analytics let you know who is watching videos and
-                                                for how long.</li>
-                                            <li class="- topic/li li" css:display="list-item">Unlimited user storage and bandwidth.</li>
+                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_6_Connect_42_ul_y3k_h43_hzb" nd:nd-id="ul_y3k_h43_hzb">
+                                            <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-add-media-using-kaltura" format="html" href="https://it.umn.edu/services-technologies/how-tos/canvas-add-media-using-kaltura" rel="external noopener" scope="external" target="_blank">Canvas: Add Media from Kaltura Using the Rich
+                                                  Content
+                                                  Editor<css:after css:display="inline" css:font-style="italic" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-add-media-using-kaltura" css:oxy-alt-text=" "/></a>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_7" css:oxy-alt-text="This page informs users how to add, move, or remove the media gallery in canvas." format="dita" href="#unique_7" title="This page informs users how to add, move, or remove the media gallery in canvas." type="task"> Canvas: Add, Move, or Remove the Media Gallery
+                                                  <css:after css:display="inline" css:font-style="italic" css:link="#unique_7" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_7"/><css:text>)</css:text></css:after></a></li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_8" css:oxy-alt-text="This page teaches instructors how to create a video assignment in canvas." format="dita" href="#unique_8" title="This page teaches instructors how to create a video assignment in canvas." type="task">Canvas: Create a Kaltura Video
+                                                  Assignment<css:after css:display="inline" css:font-style="italic" css:link="#unique_8" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_8"/><css:text>)</css:text></css:after></a></p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_9" css:oxy-alt-text="This page teaches users how to upload audio/visual files and submit them as assignments in canvas." format="dita" href="#unique_9" title="This page teaches users how to upload audio/visual files and submit them as assignments in canvas." type="task">Canvas for Students: Submit a Video/Audio
+                                                  Assignment Using
+                                                  Kaltura<css:after css:display="inline" css:font-style="italic" css:link="#unique_9" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_9"/><css:text>)</css:text></css:after></a></p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://it.umn.edu/self-help-guide/kaltura-mediaspace-upload-manage-media-1" format="html" href="https://it.umn.edu/self-help-guide/kaltura-mediaspace-upload-manage-media-1" rel="external noopener" scope="external" target="_blank">Kaltura MediaSpace: Upload and Manage
+                                                  Media<css:after css:display="inline" css:font-style="italic" css:link="https://it.umn.edu/self-help-guide/kaltura-mediaspace-upload-manage-media-1" css:oxy-alt-text=" "/></a>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_10" css:oxy-alt-text="Kaltura employs an automated captioning process described here." format="dita" href="#unique_10" title="Kaltura employs an automated captioning process described here." type="concept"> Kaltura: Closed Captioning Process Overview
+                                                  <css:after css:display="inline" css:font-style="italic" css:link="#unique_10" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_10"/><css:text>)</css:text></css:after></a></li>
                                         </ul>
                                     </section>
                                 </div>
                             </article>
-                            <article aria-labelledby="ariaid-title7" class="- topic/topic reference/reference topic reference nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_7" nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title7"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">The Do's and Do Not's of Using
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title7" break-before="true" class="- topic/topic reference/reference topic reference nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_11" is-chapter="true" nd:nd-id="Reference_Highlights" oid="Reference_Highlights" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title7"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="3"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">What are the Highlights of
+                                Kaltura?</span></h1>
+                            <div class="- topic/body reference/refbody body refbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This section lists the highlights of
+                                    Kaltura.</p>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_11_Connect_42_ul_vlx_4n3_hzb" nd:nd-id="ul_vlx_4n3_hzb">
+                                        <li class="- topic/li li" css:display="list-item">Users can
+                                            upload, record, and manage video and audio files.</li>
+                                        <li class="- topic/li li" css:display="list-item">Use the
+                                            Kaltura Capture desktop recorder to record your screen
+                                            and/or desktop.</li>
+                                        <li class="- topic/li li" css:display="list-item">Videos
+                                            published in Canvas courses are only viewable by other
+                                            people enrolled in those courses. </li>
+                                        <li class="- topic/li li" css:display="list-item">Uploaded
+                                            video/audio files receive auto-generated draft captions
+                                            through automatic speech recognition.</li>
+                                        <li class="- topic/li li" css:display="list-item">Users can
+                                            search captions within and across videos as a way to
+                                            review content and learn more. </li>
+                                        <li class="- topic/li li" css:display="list-item">Viewer
+                                            analytics let you know who is watching videos and for
+                                            how long.</li>
+                                        <li class="- topic/li li" css:display="list-item">Unlimited
+                                            user storage and bandwidth.</li>
+                                    </ul>
+                                </section>
+                            </div>
+                            <article aria-labelledby="ariaid-title8" class="- topic/topic reference/reference topic reference nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_12" nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">The Do's and Do Not's of Using
                                         Kaltura</span></h2>
                                 <div class="- topic/body reference/refbody body refbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                     <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Information detailing when it is and
                                         is not appropriate to use Kaltura.</p>
                                     <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_7_Connect_42_ul_j4s_5k5_gzb" nd:nd-id="ul_j4s_5k5_gzb">
+                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_12_Connect_42_ul_j4s_5k5_gzb" nd:nd-id="ul_j4s_5k5_gzb">
                                             <li class="- topic/li li" css:display="list-item">DO
                                                 access Kaltura through <a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://it.umn.edu/node/69116" format="html" href="https://it.umn.edu/node/69116" rel="external noopener" scope="external" target="_blank">Canvas<css:after css:display="inline" css:font-style="italic" css:link="https://it.umn.edu/node/69116" css:oxy-alt-text=" "/></a>
                                                 and <a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://mediaspace.umn.edu/" format="html" href="https://mediaspace.umn.edu/" rel="external noopener" scope="external" target="_blank">Kaltura
@@ -308,41 +352,131 @@
                                     </section>
                                 </div>
                             </article>
-                            <article aria-labelledby="ariaid-title8" class="- topic/topic reference/reference topic reference nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_8" nd:nd-id="Reference_Resources" oid="Reference_Resources" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Where to Go for Additional
-                                        Reading?</span></h2>
+                            <article aria-labelledby="ariaid-title9" class="- topic/topic reference/reference topic reference nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_13" nd:nd-id="Reference_CreateKalturaVideoAssignment" oid="Reference_CreateKalturaVideoAssignment" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">What are the Benefits of
+                                        Kaltura?</span></h2>
                                 <div class="- topic/body reference/refbody body refbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This pages contains additional
-                                        resources for using Kaltura.</p>
-                                    <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_8_Connect_42_ul_y3k_h43_hzb" nd:nd-id="ul_y3k_h43_hzb">
-                                            <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-add-media-using-kaltura" format="html" href="https://it.umn.edu/services-technologies/how-tos/canvas-add-media-using-kaltura" rel="external noopener" scope="external" target="_blank">Canvas: Add Media from Kaltura Using the Rich
-                                                  Content
-                                                  Editor<css:after css:display="inline" css:font-style="italic" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-add-media-using-kaltura" css:oxy-alt-text=" "/></a>
-                                            </li>
-                                            <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_9" css:oxy-alt-text="This page informs users how to add, move, or remove the media gallery in canvas." format="dita" href="#unique_9" title="This page informs users how to add, move, or remove the media gallery in canvas." type="task"> Canvas: Add, Move, or Remove the Media Gallery
-                                                  <css:after css:display="inline" css:font-style="italic" css:link="#unique_9" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_9"/><css:text>)</css:text></css:after></a></li>
-                                            <li class="- topic/li li" css:display="list-item">
-                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_10" css:oxy-alt-text="This page teaches instructors how to create a video assignment in canvas." format="dita" href="#unique_10" title="This page teaches instructors how to create a video assignment in canvas." type="task">Canvas: Create a Kaltura Video
-                                                  Assignment<css:after css:display="inline" css:font-style="italic" css:link="#unique_10" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_10"/><css:text>)</css:text></css:after></a></p>
-                                            </li>
-                                            <li class="- topic/li li" css:display="list-item">
-                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_11" css:oxy-alt-text="This page teaches users how to upload audio/visual files and submit them as assignments in canvas." format="dita" href="#unique_11" title="This page teaches users how to upload audio/visual files and submit them as assignments in canvas." type="task">Canvas for Students: Submit a Video/Audio
-                                                  Assignment Using
-                                                  Kaltura<css:after css:display="inline" css:font-style="italic" css:link="#unique_11" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_11"/><css:text>)</css:text></css:after></a></p>
-                                            </li>
-                                            <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://it.umn.edu/self-help-guide/kaltura-mediaspace-upload-manage-media-1" format="html" href="https://it.umn.edu/self-help-guide/kaltura-mediaspace-upload-manage-media-1" rel="external noopener" scope="external" target="_blank">Kaltura MediaSpace: Upload and Manage
-                                                  Media<css:after css:display="inline" css:font-style="italic" css:link="https://it.umn.edu/self-help-guide/kaltura-mediaspace-upload-manage-media-1" css:oxy-alt-text=" "/></a>
-                                            </li>
-                                            <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_12" css:oxy-alt-text="Kaltura employs an automated captioning process described here." format="dita" href="#unique_12" title="Kaltura employs an automated captioning process described here." type="concept"> Kaltura: Closed Captioning Process Overview
-                                                  <css:after css:display="inline" css:font-style="italic" css:link="#unique_12" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_12"/><css:text>)</css:text></css:after></a></li>
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This page details some of the
+                                        capabilities of Kaltura's video assignment feature.</p>
+                                    <div class="- topic/example example" css:display="block" css:margin-bottom="1em" css:margin-top="1em">
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Kaltura is a
+                                            media management system that can be used to upload video
+                                            files as well as to create webcam recordings. Videos in
+                                            Kaltura can be viewed on phones, tablets, and computers.
+                                            Access Kaltura through your Canvas course site.</p>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">While Canvas
+                                            Assignments offer an online submission type called Media
+                                            Recordings, Kaltura's<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold"> My Media</strong> offers
+                                            greater flexibility with regard to ownership and
+                                            use:</p>
+                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_13_Connect_42_ul_ort_xv3_hzb" nd:nd-id="ul_ort_xv3_hzb">
+                                            <li class="- topic/li li" css:display="list-item">There
+                                                is no limit on Kaltura's file space whereas file
+                                                space for each Canvas course is limited to
+                                                4.2GB.</li>
+                                            <li class="- topic/li li" css:display="list-item">If you
+                                                use the Canvas Media Recordings option, any media
+                                                (video/audio) will be uploaded directly to your
+                                                Canvas course site. Because video files are so
+                                                large, you could run out of space.</li>
+                                            <li class="- topic/li li" css:display="list-item">By
+                                                using Kaltura, students can either record new media
+                                                or upload existing media from their <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">My
+                                                  Media</strong> space.</li>
+                                            <li class="- topic/li li" css:display="list-item">Media
+                                                stored on Kaltura's file server can stream at
+                                                various internet speeds.</li>
                                         </ul>
-                                    </section>
+                                    </div>
                                 </div>
+                                <article aria-labelledby="ariaid-title10" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_8" nd:nd-id="Task_SetUpVideoAssignment" oid="Task_SetUpVideoAssignment" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title10"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Canvas: Setting Up a Video
+                                            Assignment Using Kaltura</span></h3>
+                                    <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This page teaches instructors
+                                            how to create a video assignment in canvas.</p>
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">The
+                                                following steps apply to assigning to individual
+                                                students, not group work.</p>
+                                        </section>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Course
+                                                  Navigation Menu</strong> &gt; <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assignments</strong>.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Add
+                                                  Assignment</strong> button.</span>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <img alt="To right of Add Assignment Group button, Add Assignment button highlighted" chfox:inch="true" class="- topic/image image" css:display="inline" css:height="55px" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="To right of Add Assignment Group button, Add Assignment button highlighted" css:width="264px" height="55" href="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png" id="unique_8_Connect_42_image_ycz_lw3_hzb" nd:nd-id="image_ycz_lw3_hzb" placement="inline" scope="external" src="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png" width="264"><css:content-on-element><css:uri extracted-image-height="55" extracted-image-width="264" uri="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png"/></css:content-on-element></img>
+                                                  </div>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Type the name of the
+                                                  assignment in the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assignment Name</strong> text box.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Type the assignment
+                                                  instructions in the text box.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Scroll down to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Points</strong> text box and type the highest
+                                                  grade students can receive.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assignment Group</strong> from the drop-down
+                                                  list, if necessary.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Submission Type</strong> drop-down list and
+                                                  select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Online.</strong>
+                                                  <em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">The
+                                                  box expands to reveal the options.</em></span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Choose Text Entry in the
+                                                  Online Entry Options. </span>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Drop down menu of online entry options highlighting text entry." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Drop down menu of online entry options highlighting text entry." dita-ot:image-height="227" dita-ot:image-width="400" href="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png" id="unique_8_Connect_42_image_py4_jx3_hzb" nd:nd-id="image_py4_jx3_hzb" placement="inline" src="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png"><css:content-on-element><css:uri extracted-image-height="227" extracted-image-width="400" uri="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png"/></css:content-on-element></img>
+                                                  </div>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Scroll down to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assign
+                                                  to</strong> options. Using the date
+                                                  pickers:</span>
+                                                  <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_8_Connect_42_substeps_bzk_mx3_hzb" nd:nd-id="substeps_bzk_mx3_hzb" type="a">
+                                                  <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Due
+                                                  </strong>date.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Available from</strong> and <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Until
+                                                  </strong>dates.</span>
+                                                  </li>
+                                                  </ol>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save
+                                                  &amp; Publish</strong>. <em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">The
+                                                  assignment displays.</em></span>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save</strong> if you are not ready to make the
+                                                  assignment visible to students.</div>
+                                                  <div class="- topic/itemgroup task/stepresult itemgroup stepresult" css:display="block">Your students will now be able
+                                                  to upload their Kaltura video/audio work in the
+                                                  assignment area's text box using the Embed Kaltura
+                                                  Media tool. See <a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio" format="html" href="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio" rel="external noopener" scope="external" target="_blank">Canvas for Students: Submit a Video/Audio
+                                                  Assignment Using
+                                                  Kaltura<css:after css:display="inline" css:font-style="italic" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio" css:oxy-alt-text=" "/></a>.</div>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </div>
+                                </article>
                             </article>
                         </article>
-                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title9" break-before="true" class="- topic/topic concept/concept topic concept nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_12" is-chapter="true" nd:nd-id="Concept_ClosedCaptioningProcessOverview" oid="Concept_ClosedCaptioningProcessOverview" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title9"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="3"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Kalura: Closed Captioning Process
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title11" break-before="true" class="- topic/topic concept/concept topic concept nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_10" is-chapter="true" nd:nd-id="Concept_ClosedCaptioningProcessOverview" oid="Concept_ClosedCaptioningProcessOverview" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title11"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="4"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Kaltura: Closed Captioning Process
                                     Overview</span></h1>
                             <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                 <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"> Kaltura employs an automated captioning
@@ -361,131 +495,95 @@
                                     accessibility.</p>
                                 <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">After you upload a video, the captioning process begins. When
                                     your captions are complete you receive a confirmation email.</p>
-                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Screen shot of a video with captions enclosed in a red box." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Screen shot of a video with captions enclosed in a red box." dita-ot:image-height="414" dita-ot:image-width="700" href="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Concept_ClosedCaptioningProcessOverview.png" id="unique_12_Connect_42_image_b5g_5s3_hzb" nd:nd-id="image_b5g_5s3_hzb" placement="inline" src="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Concept_ClosedCaptioningProcessOverview.png"><css:content-on-element><css:uri extracted-image-height="414" extracted-image-width="700" uri="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Concept_ClosedCaptioningProcessOverview.png"/></css:content-on-element></img></p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Screen shot of a video with captions enclosed in a red box." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Screen shot of a video with captions enclosed in a red box." dita-ot:image-height="414" dita-ot:image-width="700" href="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Concept_ClosedCaptioningProcessOverview.png" id="unique_10_Connect_42_image_b5g_5s3_hzb" nd:nd-id="image_b5g_5s3_hzb" placement="inline" src="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Concept_ClosedCaptioningProcessOverview.png"><css:content-on-element><css:uri extracted-image-height="414" extracted-image-width="700" uri="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Concept_ClosedCaptioningProcessOverview.png"/></css:content-on-element></img></p>
                             </div>
                         </article>
-                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title10" break-before="true" class="- topic/topic reference/reference topic reference nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_13" is-chapter="true" nd:nd-id="Reference_CreateKalturaVideoAssignment" oid="Reference_CreateKalturaVideoAssignment" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title10"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="4"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">What are the Benefits of
-                                Kaltura?</span></h1>
-                            <div class="- topic/body reference/refbody body refbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This page details some of the
-                                    capabilities of Kaltura's video assignment feature.</p>
-                                <div class="- topic/example example" css:display="block" css:margin-bottom="1em" css:margin-top="1em">
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Kaltura is a media
-                                        management system that can be used to upload video files as
-                                        well as to create webcam recordings. Videos in Kaltura can
-                                        be viewed on phones, tablets, and computers. Access Kaltura
-                                        through your Canvas course site.</p>
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">While Canvas
-                                        Assignments offer an online submission type called Media
-                                        Recordings, Kaltura's<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold"> My
-                                            Media</strong> offers greater flexibility with regard to
-                                        ownership and use:</p>
-                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_13_Connect_42_ul_ort_xv3_hzb" nd:nd-id="ul_ort_xv3_hzb">
-                                        <li class="- topic/li li" css:display="list-item">There is
-                                            no limit on Kaltura's file space whereas file space for
-                                            each Canvas course is limited to 4.2GB.</li>
-                                        <li class="- topic/li li" css:display="list-item">If you use
-                                            the Canvas Media Recordings option, any media
-                                            (video/audio) will be uploaded directly to your Canvas
-                                            course site. Because video files are so large, you could
-                                            run out of space.</li>
-                                        <li class="- topic/li li" css:display="list-item">By using
-                                            Kaltura, students can either record new media or upload
-                                            existing media from their <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">My Media</strong> space.</li>
-                                        <li class="- topic/li li" css:display="list-item">Media
-                                            stored on Kaltura's file server can stream at various
-                                            internet speeds.</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <article aria-labelledby="ariaid-title11" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_10" nd:nd-id="Task_SetUpVideoAssignment" oid="Task_SetUpVideoAssignment" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title11"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Setting Up a Video Assignment Using
-                                        Kaltura</span></h2>
-                                <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This page teaches instructors how to
-                                        create a video assignment in canvas.</p>
-                                    <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">The following
-                                            steps apply to assigning to individual students, not
-                                            group work.</p>
-                                    </section>
-                                    <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
-                                        <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Course
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title12" break-before="true" class="- topic/topic task/task topic task nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_8_ssol1" is-chapter="true" nd:nd-id="Task_SetUpVideoAssignment" oid="Task_SetUpVideoAssignment" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title12"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="5"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Canvas: Setting Up a Video Assignment Using
+                                    Kaltura</span></h1>
+                            <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This page teaches instructors how to
+                                    create a video assignment in canvas.</p>
+                                <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">The following
+                                        steps apply to assigning to individual students, not group
+                                        work.</p>
+                                </section>
+                                <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                    <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Course
                                                   Navigation Menu</strong> &gt; <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assignments</strong>.</span>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Add
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Add
                                                   Assignment</strong> button.</span>
-                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
-                                                  <img alt="To right of Add Assignment Group button, Add Assignment button highlighted" chfox:inch="true" class="- topic/image image" css:display="inline" css:height="55px" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="To right of Add Assignment Group button, Add Assignment button highlighted" css:width="264px" height="55" href="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png" id="unique_10_Connect_42_image_ycz_lw3_hzb" nd:nd-id="image_ycz_lw3_hzb" placement="inline" scope="external" src="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png" width="264"><css:content-on-element><css:uri extracted-image-height="55" extracted-image-width="264" uri="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png"/></css:content-on-element></img>
-                                                </div>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Type the name of the
-                                                  assignment in the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assignment Name</strong> text box.</span>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Type the assignment
-                                                  instructions in the text box.</span>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Scroll down to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Points</strong> text box and type the highest
-                                                  grade students can receive.</span>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assignment Group</strong> from the drop-down
-                                                  list, if necessary.</span>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Submission Type</strong> drop-down list and
-                                                  select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Online.</strong>
-                                                  <em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">The
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                <img alt="To right of Add Assignment Group button, Add Assignment button highlighted" chfox:inch="true" class="- topic/image image" css:display="inline" css:height="55px" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="To right of Add Assignment Group button, Add Assignment button highlighted" css:width="264px" height="55" href="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png" id="unique_8_ssol1_Connect_42_image_ycz_lw3_hzb" placement="inline" scope="external" src="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png" width="264"><css:content-on-element><css:uri extracted-image-height="55" extracted-image-width="264" uri="https://it-knowledge.umn.edu/sites/it-knowledge.umn.edu/files/tdxassets/KB0022465-assignment-button-20180110.png"/></css:content-on-element></img>
+                                            </div>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Type the name of the assignment
+                                                in the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assignment Name</strong> text box.</span>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Type the assignment
+                                                instructions in the text box.</span>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Scroll down to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Points</strong> text box and type the highest
+                                                grade students can receive.</span>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assignment Group</strong> from the drop-down
+                                                list, if necessary.</span>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Submission Type</strong> drop-down list and
+                                                select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Online.</strong>
+                                                <em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">The
                                                   box expands to reveal the options.</em></span>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Choose Text Entry in the
-                                                  Online Entry Options. </span>
-                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Drop down menu of online entry options highlighting text entry." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Drop down menu of online entry options highlighting text entry." dita-ot:image-height="227" dita-ot:image-width="400" href="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png" id="unique_10_Connect_42_image_py4_jx3_hzb" nd:nd-id="image_py4_jx3_hzb" placement="inline" src="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png"><css:content-on-element><css:uri extracted-image-height="227" extracted-image-width="400" uri="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png"/></css:content-on-element></img>
-                                                </div>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Scroll down to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assign
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Choose Text Entry in the Online
+                                                Entry Options. </span>
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Drop down menu of online entry options highlighting text entry." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Drop down menu of online entry options highlighting text entry." dita-ot:image-height="227" dita-ot:image-width="400" href="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png" id="unique_8_ssol1_Connect_42_image_py4_jx3_hzb" placement="inline" src="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png"><css:content-on-element><css:uri extracted-image-height="227" extracted-image-width="400" uri="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/topics/Task_SetUpVideoAssignment.png"/></css:content-on-element></img>
+                                            </div>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Scroll down to the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Assign
                                                   to</strong> options. Using the date
-                                                  pickers:</span>
-                                                <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_10_Connect_42_substeps_bzk_mx3_hzb" nd:nd-id="substeps_bzk_mx3_hzb" type="a">
-                                                  <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
+                                                pickers:</span>
+                                            <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_8_ssol1_Connect_42_substeps_bzk_mx3_hzb" type="a">
+                                                <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
                                                   <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Due
                                                   </strong>date.</span>
-                                                  </li>
-                                                  <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
+                                                </li>
+                                                <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
                                                   <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Available from</strong> and <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Until
                                                   </strong>dates.</span>
-                                                  </li>
-                                                </ol>
-                                            </li>
-                                            <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save
+                                                </li>
+                                            </ol>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save
                                                   &amp; Publish</strong>. <em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">The
                                                   assignment displays.</em></span>
-                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save</strong> if you are not ready to make the
-                                                  assignment visible to students.</div>
-                                                <div class="- topic/itemgroup task/stepresult itemgroup stepresult" css:display="block">Your students will now be able
-                                                  to upload their Kaltura video/audio work in the
-                                                  assignment area's text box using the Embed Kaltura
-                                                  Media tool. See <a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio" format="html" href="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio" rel="external noopener" scope="external" target="_blank">Canvas for Students: Submit a Video/Audio
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save</strong> if you are not ready to make the
+                                                assignment visible to students.</div>
+                                            <div class="- topic/itemgroup task/stepresult itemgroup stepresult" css:display="block">Your students will now be able
+                                                to upload their Kaltura video/audio work in the
+                                                assignment area's text box using the Embed Kaltura
+                                                Media tool. See <a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio" format="html" href="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio" rel="external noopener" scope="external" target="_blank">Canvas for Students: Submit a Video/Audio
                                                   Assignment Using
                                                   Kaltura<css:after css:display="inline" css:font-style="italic" css:link="https://it.umn.edu/services-technologies/how-tos/canvas-students-submit-videoaudio" css:oxy-alt-text=" "/></a>.</div>
-                                            </li>
-                                        </ol>
-                                    </section>
-                                </div>
-                            </article>
+                                        </li>
+                                    </ol>
+                                </section>
+                            </div>
                         </article>
-                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title12" break-before="true" class="- topic/topic task/task topic task nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_9" is-chapter="true" nd:nd-id="Task_AddMoveRemoveMediaGallery" oid="Task_AddMoveRemoveMediaGallery" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title12"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="5"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Canvas: Add, Move, or Remove the Media
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title13" break-before="true" class="- topic/topic task/task topic task nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7" is-chapter="true" nd:nd-id="Task_AddMoveRemoveMediaGallery" oid="Task_AddMoveRemoveMediaGallery" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title13"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="6"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Canvas: Add, Move, or Remove the Media
                                     Gallery</span></h1>
                             <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                 <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This page informs users how to add,
@@ -550,8 +648,8 @@
                                 </section>
                             </div>
                         </article>
-                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title13" break-before="true" class="- topic/topic task/task topic task nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_11" is-chapter="true" nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title13"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="6"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Canvas for Students: Submit a Video/Audio
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/vtadl/Desktop/University/Grad%20School/FA23/WRIT%205662/tc3_Tadlock/using_kaltura_in_canvas_and_mediaspace.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title14" break-before="true" class="- topic/topic task/task topic task nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_9" is-chapter="true" nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title14"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="7"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="7"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="7"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Canvas for Students: Submit a Video/Audio
                                     Assignment Using Kaltura</span></h1>
                             <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                 <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This page teaches users how to upload
@@ -592,7 +690,7 @@
                                         <li class="- topic/li task/step li step" css:display="list-item">
                                             <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Embed
                                                   Kaltura Media</strong>button to open your <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">My
-                                                  Media</strong> library. <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Image of rich text editor toolbar in Canvas pointing to the upload Kaltura media icon." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Image of rich text editor toolbar in Canvas pointing to the upload Kaltura media icon." dita-ot:image-height="78" dita-ot:image-width="900" href="https://tdx.umn.edu/TDPortal/Images/Viewer?fileName=2232518b-2515-4d7b-a983-c15802d3fa90.png" id="unique_11_Connect_42_image_jtp_yt3_hzb" nd:nd-id="image_jtp_yt3_hzb" placement="inline" scope="external" src="https://tdx.umn.edu/TDPortal/Images/Viewer?fileName=2232518b-2515-4d7b-a983-c15802d3fa90.png"><css:content-on-element><css:uri extracted-image-height="78" extracted-image-width="900" uri="https://tdx.umn.edu/TDPortal/Images/Viewer?fileName=2232518b-2515-4d7b-a983-c15802d3fa90.png"/></css:content-on-element></img>
+                                                  Media</strong> library. <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Image of rich text editor toolbar in Canvas pointing to the upload Kaltura media icon." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Image of rich text editor toolbar in Canvas pointing to the upload Kaltura media icon." dita-ot:image-height="78" dita-ot:image-width="900" href="https://tdx.umn.edu/TDPortal/Images/Viewer?fileName=2232518b-2515-4d7b-a983-c15802d3fa90.png" id="unique_9_Connect_42_image_jtp_yt3_hzb" nd:nd-id="image_jtp_yt3_hzb" placement="inline" scope="external" src="https://tdx.umn.edu/TDPortal/Images/Viewer?fileName=2232518b-2515-4d7b-a983-c15802d3fa90.png"><css:content-on-element><css:uri extracted-image-height="78" extracted-image-width="900" uri="https://tdx.umn.edu/TDPortal/Images/Viewer?fileName=2232518b-2515-4d7b-a983-c15802d3fa90.png"/></css:content-on-element></img>
                                             </span>
                                         </li>
                                         <li class="- topic/li task/step li step" css:display="list-item">
