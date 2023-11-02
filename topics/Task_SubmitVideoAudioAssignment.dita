@@ -31,7 +31,10 @@
                 <cmd>Select the <b>Embed Kaltura Media</b>button to open your <b>My Media</b> library.
                     <image
                         href="https://tdx.umn.edu/TDPortal/Images/Viewer?fileName=2232518b-2515-4d7b-a983-c15802d3fa90.png"
-                        scope="external" id="image_jtp_yt3_hzb"/>
+                        scope="external" id="image_jtp_yt3_hzb">
+                     <alt>Image of rich text editor toolbar in Canvas pointing to the upload
+                     Kaltura media icon.</alt>
+                    </image>
                 </cmd>
             </step>
             <step>

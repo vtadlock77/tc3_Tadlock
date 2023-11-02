@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="Reference_Resources">
-    <title>Resources</title>
+    <title>Where to Go for Additional Reading?</title>
     <shortdesc>This pages contains additional resources for using Kaltura.</shortdesc>
     <refbody>
         <section>
@@ -17,6 +17,10 @@
                     <p><xref href="Task_SetUpVideoAssignment.dita" format="dita">Canvas: Create a
                             Kaltura Video Assignment</xref></p>
                 </li>
+                <li>
+                    <p><xref href="Task_SubmitVideoAudioAssignment.dita" format="dita">Canvas for
+                            Students: Submit a Video/Audio Assignment Using Kaltura</xref></p>
+                </li>
                 <li><xref 
                     href="https://it.umn.edu/self-help-guide/kaltura-mediaspace-upload-manage-media-1"
                     format="html" scope="external">Kaltura MediaSpace: Upload and Manage Media</xref>
@@ -24,10 +28,6 @@
                 <li><xref href="Concept_ClosedCaptioningProcessOverview.dita" format="dita">
                         Kaltura: Closed Captioning Process Overview
                     </xref></li>
-                <li>
-                    <p><xref href="Task_SubmitVideoAudioAssignment.dita" format="dita">Canvas for
-                            Students: Submit a Video/Audio Assignment Using Kaltura</xref></p>
-                </li>
             </ul>
         </section>
     </refbody>
