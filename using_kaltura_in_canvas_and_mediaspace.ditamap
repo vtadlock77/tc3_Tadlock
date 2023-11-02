@@ -8,14 +8,16 @@
         <topicref href="topics/Concept_GetHelp.dita"/>
     </topicref>
     <topicref href="topics/Reference_AccessKaltura.dita">
-        <topicref href="topics/Reference_Highlights.dita"/>
-        <topicref href="topics/Reference_KalturaUses.dita"/>
         <topicref href="topics/Reference_Resources.dita"/>
     </topicref>
-    <topicref href="topics/Concept_ClosedCaptioningProcessOverview.dita"/>
-    <topicref href="topics/Reference_CreateKalturaVideoAssignment%20.dita">
-        <topicref href="topics/Task_SetUpVideoAssignment.dita"/>
+    <topicref href="topics/Reference_Highlights.dita">
+        <topicref href="topics/Reference_KalturaUses.dita"/>
+        <topicref href="topics/Reference_CreateKalturaVideoAssignment%20.dita">
+            <topicref href="topics/Task_SetUpVideoAssignment.dita"/>
+        </topicref>
     </topicref>
+    <topicref href="topics/Concept_ClosedCaptioningProcessOverview.dita"/>
+    <topicref href="topics/Task_SetUpVideoAssignment.dita"/>
     <topicref href="topics/Task_AddMoveRemoveMediaGallery.dita"/>
     <topicref href="topics/Task_SubmitVideoAudioAssignment.dita"/>
 </map>
