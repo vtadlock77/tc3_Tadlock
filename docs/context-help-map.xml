@@ -6,15 +6,14 @@
    <appContext helpID="Concept_Cost" path="topics/Concept_Cost.html"/>
    <appContext helpID="Untitled" path="topics/Concept_GetHelp.html"/>
    <appContext helpID="Untitled" path="topics/Reference_AccessKaltura.html"/>
+   <appContext helpID="Reference_Resources" path="topics/Reference_Resources.html"/>
    <appContext helpID="Reference_Highlights" path="topics/Reference_Highlights.html"/>
    <appContext helpID="Untitled" path="topics/Reference_KalturaUses.html"/>
-   <appContext helpID="Reference_Resources" path="topics/Reference_Resources.html"/>
-   <appContext helpID="Concept_ClosedCaptioningProcessOverview"
-               path="topics/Concept_ClosedCaptioningProcessOverview.html"/>
    <appContext helpID="Reference_CreateKalturaVideoAssignment"
                path="topics/Reference_CreateKalturaVideoAssignment%20.html"/>
-   <appContext helpID="Task_SetUpVideoAssignment"
-               path="topics/Task_SetUpVideoAssignment.html"/>
+   <appContext helpID="Concept_ClosedCaptioningProcessOverview"
+               path="topics/Concept_ClosedCaptioningProcessOverview.html"/>
+   <appContext helpID="" path="topics/Task_SetUpVideoAssignment.html"/>
    <appContext helpID="Task_AddMoveRemoveMediaGallery"
                path="topics/Task_AddMoveRemoveMediaGallery.html"/>
    <appContext helpID="Untitled" path="topics/Task_SubmitVideoAudioAssignment.html"/>
