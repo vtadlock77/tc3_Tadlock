@@ -13,7 +13,6 @@
                path="topics/Reference_CreateKalturaVideoAssignment%20.html"/>
    <appContext helpID="Concept_ClosedCaptioningProcessOverview"
                path="topics/Concept_ClosedCaptioningProcessOverview.html"/>
-   <appContext helpID="" path="topics/Task_SetUpVideoAssignment.html"/>
    <appContext helpID="Task_AddMoveRemoveMediaGallery"
                path="topics/Task_AddMoveRemoveMediaGallery.html"/>
    <appContext helpID="Untitled" path="topics/Task_SubmitVideoAudioAssignment.html"/>
