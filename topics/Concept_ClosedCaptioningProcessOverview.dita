@@ -2,8 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Concept_ClosedCaptioningProcessOverview">
     <title>Kalura: Closed Captioning Process Overview</title>
-    <shortdesc>This page details topics related to managing closed captions on your videos using
-        Kaltura in Canvas and MediaSpace.</shortdesc>
+    <shortdesc> Kaltura employs an automated captioning process described here.</shortdesc>
     <conbody>
         <p>Captions are the text equivalent of what's being said, as well as other auditory
             information in a video. Closed captions are text that do not appear under a video by
@@ -16,6 +15,8 @@
             captions to ensure accessibility.</p>
         <p>After you upload a video, the captioning process begins. When your captions are complete
             you receive a confirmation email.</p>
-        <p><image href="Concept_ClosedCaptioningProcessOverview.png" id="image_b5g_5s3_hzb"/></p>
+        <p><image href="Concept_ClosedCaptioningProcessOverview.png" id="image_b5g_5s3_hzb">
+                <alt>Screen shot of a video with captions enclosed in a red box.</alt>
+            </image></p>
     </conbody>
 </concept>

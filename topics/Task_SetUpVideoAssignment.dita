@@ -42,7 +42,10 @@
             <step>
                 <cmd>Choose Text Entry in the Online Entry Options.
                 </cmd>
-                <info><image href="Task_SetUpVideoAssignment.png" id="image_py4_jx3_hzb"/></info>
+                <info><image href="Task_SetUpVideoAssignment.png" id="image_py4_jx3_hzb">
+                        <alt>Drop down menu of online entry options highlighting text entry.</alt>
+                    </image>
+                </info>
             </step>
             <step>
                 <cmd>Scroll down to the <b>Assign to</b> options. Using the date pickers:</cmd>

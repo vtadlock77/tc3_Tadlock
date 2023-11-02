@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Untitled">
-    <title>Intended Audience</title>
-    <shortdesc>This page contains the intended audience for Kaltura.</shortdesc>
+    <title>Who Should Use Kaltura?</title>
+    <shortdesc>Kaltura is intended as a free use tool for anyone handling non-protected
+        information.</shortdesc>
     <conbody>
         <p>
+            Kaltura is intended for the following groups:
             <ul id="ul_em1_ql3_hzb">
                 <li>Students</li>
                 <li>
