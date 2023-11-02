@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Concept_ClosedCaptioningProcessOverview">
-    <title>Kalura: Closed Captioning Process Overview</title>
+    <title>Kaltura: Closed Captioning Process Overview</title>
     <shortdesc> Kaltura employs an automated captioning process described here.</shortdesc>
     <conbody>
         <p>Captions are the text equivalent of what's being said, as well as other auditory
